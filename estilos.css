@@ -1,0 +1,12 @@
+.centrar{
+   width: 600px;
+   margin: 50px auto;
+}
+
+h1{
+   text-align: center
+}
+
+/* input[type=submit]{
+   margin-left: 250px;
+} */
